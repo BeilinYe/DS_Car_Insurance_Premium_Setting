@@ -27,13 +27,13 @@ By understanding these factors, companies can better set premiums, categorize hi
 This project utilizes two datasets from different insurance companies to analyze and predict car insurance claim amounts. Below is a brief overview of the key features and structure of each dataset:
 
 ### Main Features Across Datasets:
-- **Monthly Premium**
-- **Age**, **Gender**, **Income**
-- **Employment Status**
-- **Vehicle Size**, **Car Make**
-- **Number of Vehicles**
-- **Location**
-- **Coverage Type**
+- Monthly Premium
+- Age, Gender, Income
+- Employment Status
+- Vehicle Size, Car Make
+- Number of Vehicles
+- Location
+- Coverage Type
 
 ### Dataset 1:
 - A simpler dataset containing **24 columns** and over **9,000 rows**.
