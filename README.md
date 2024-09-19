@@ -22,31 +22,29 @@ The ability to predict claim amounts is crucial for the following reasons:
 By understanding these factors, companies can better set premiums, categorize high-risk policies, and maintain a balance between profitability and customer satisfaction. This study, based on two datasets, compares the performance of various predictive models and parameter settings, offering valuable insights for the insurance industry.
 
 
-## Dataset
-The analysis is based on two datasets obtained from different insurance companies. These datasets contain the following key variables:
+## Dataset Description
 
-- **Dataset 1**:  
-  - Customer lifetime value  
-  - Income  
-  - Monthly premium auto  
-  - Months since last claim  
-  - Months since policy inception  
-  - Number of open complaints  
-  - Number of policies
+This project utilizes two datasets from different insurance companies to analyze and predict car insurance claim amounts. Below is a brief overview of the key features and structure of each dataset:
 
-- **Dataset 2**:  
-  - Months as customer  
-  - Policy state  
-  - Policy deductible  
-  - Policy annual premium  
-  - Umbrella limit  
-  - Insured sex  
-  - Insured education level  
-  - Incident state  
-  - Days from bind date  
-  - Auto year
+### Main Features Across Datasets:
+- **Monthly Premium**
+- **Age**, **Gender**, **Income**
+- **Employment Status**
+- **Vehicle Size**, **Car Make**
+- **Number of Vehicles**
+- **Location**
+- **Coverage Type**
 
-The data was preprocessed to ensure accuracy and consistency before analysis.
+### Dataset 1:
+- A simpler dataset containing **24 columns** and over **9,000 rows**.
+- **No missing data** and all features are well-structured for analysis.
+
+### Dataset 2:
+- A more complex dataset with **over 40 columns** and around **1,000 records**.
+- Contains some **irrelevant** and **missing data**, requiring more preprocessing before analysis.
+
+Both datasets focus on policyholder information, vehicle details, and coverage types, providing a solid foundation for exploring predictive models and premium optimization.
+
 
 ## Methodology & Results
 
