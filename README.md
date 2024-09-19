@@ -1,4 +1,4 @@
-# DS_Car_Insurance_Premium_Setting
+# US Car Insurance Premium Setting using Machine Learning
 
 ## Project Overview
 This project aims to analyze factors that influence the total claim amount in car insurance accidents by leveraging two datasets from different insurance companies. Using predictive modeling techniques such as Linear Regression, Decision Tree, and Naive Bayes, the analysis explores the relationship between key variables, including vehicle age, customer characteristics, and policy details, to predict claim amounts. The insights gained will help insurance companies optimize pricing strategies, balancing risk and profitability while maintaining fairness for policyholders.
@@ -50,9 +50,11 @@ These models were evaluated and compared based on their accuracy and performance
 The analysis revealed that factors such as the **age of the vehicle (auto year)**, **monthly premium**, and **policy deductible** significantly impact the total claim amount. The models were compared, and the **Decision Tree** model performed the best in predicting claim amounts, offering valuable insights into how insurance companies can refine their pricing strategies.
 
 ## Authors
-- 
-  GitHub: [Your GitHub Profile](https://github.com/yourprofile)
+- Beilin Ye
+  GitHub: [Your GitHub Profile](https://github.com/BeilinYe)
 
-- 
+- Harneet Kaur
   GitHub: [Contributor's GitHub Profile](https://github.com/contributorprofile)
+
+- Lida Ghasemi
 
